@@ -20,6 +20,8 @@ let persons = [
         age : 24,
      }
    ]
+
+console.log(persons)
 // console.log(persons);
 
 // adding key to the array of objects
